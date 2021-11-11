@@ -1,0 +1,15 @@
+[requires]
+boost/1.74.0
+sfml/2.5.1@bincrafters/stable
+zlib/1.2.11
+bzip2/1.0.8
+
+[options]
+sfml:graphics=True
+sfml:window=True
+sfml:audio=True
+sfml:network=False
+sfml:fPIC=True
+
+[generators]
+cmake

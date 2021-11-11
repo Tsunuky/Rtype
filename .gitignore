@@ -1,0 +1,10 @@
+build
+.vscode
+*.o
+a.out
+*vgcore*
+*.gcno
+*.gcda
+*.so
+*#
+*~
